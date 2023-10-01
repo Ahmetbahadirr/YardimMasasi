@@ -1,0 +1,86 @@
+﻿@using YardimMasasi.Sunum.Models.DuyuruViewModels;
+@model IEnumerable<DuyuruListItemViewModel>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+	<button type="button" style="btn btn-primary" id="newDuyuru">Yeni Kayıt</button>
+</p>
+<div class="modal" tabindex="-1" id="newDuyuruModal">
+	<div class="modal-dialog">
+        <div class="modal-content" id="myModalContent">
+		</div>
+	</div>
+</div>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Id)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Baslik)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Konu)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.BaslangicTarihi)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.BitisTarihi)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Id)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Baslik)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Konu)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.BaslangicTarihi)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.BitisTarihi)
+				</td>
+				<td>
+					@Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+					@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+					@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@section Scripts{
+	<script type="text/javascript">
+		$(document).ready(
+			function () {
+				$("#newDuyuru").click(
+					function () {
+						var modal = document.getElementById('newDuyuruModal');
+
+						var content = document.getElementById('myModalContent');
+
+						openModal(content, modal, "/duyuru/create");
+					}
+				);
+			}
+		);
+	</script>
+}

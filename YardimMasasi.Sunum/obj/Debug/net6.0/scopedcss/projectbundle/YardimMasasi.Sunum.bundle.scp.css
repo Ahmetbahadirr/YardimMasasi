@@ -1,0 +1,49 @@
+/* _content/YardimMasasi.Sunum/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ihjawtu74d] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ihjawtu74d] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ihjawtu74d] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ihjawtu74d], .nav-pills .show > .nav-link[b-ihjawtu74d] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ihjawtu74d] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ihjawtu74d] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ihjawtu74d] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ihjawtu74d] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ihjawtu74d] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

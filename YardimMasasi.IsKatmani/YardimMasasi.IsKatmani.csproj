@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YardimMasasi.Nesneler\YardimMasasi.Nesneler.csproj" />
+    <ProjectReference Include="..\YardimMasasi.VeriErisim\YardimMasasi.VeriErisim.csproj" />
+  </ItemGroup>
+
+</Project>

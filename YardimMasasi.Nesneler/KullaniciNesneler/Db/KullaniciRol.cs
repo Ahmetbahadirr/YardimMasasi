@@ -1,0 +1,10 @@
+﻿namespace YardimMasasi.Nesneler.KullaniciNesneler.Db
+{
+    public class KullaniciRol
+    {
+        public int KullaniciId { get; set; }
+        public int RolId { get; set; }
+        public Kullanici Kullanici { get; set; }
+        public Rol Rol { get; set; }
+    }
+}

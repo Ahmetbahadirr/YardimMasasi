@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.IsKatmani.deps.json
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.IsKatmani.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.IsKatmani.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.Nesneler.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.Nesneler.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.AssemblyInfo.cs
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.csproj.CopyComplete
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\refint\YardimMasasi.IsKatmani.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\YardimMasasi.IsKatmani.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\obj\Debug\net6.0\ref\YardimMasasi.IsKatmani.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.VeriErisim.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.IsKatmani\bin\Debug\net6.0\YardimMasasi.VeriErisim.pdb

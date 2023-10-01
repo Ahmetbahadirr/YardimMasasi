@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\bin\Debug\net6.0\YardimMasasi.VeriErisim.deps.json
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\bin\Debug\net6.0\YardimMasasi.VeriErisim.runtimeconfig.json
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\bin\Debug\net6.0\YardimMasasi.VeriErisim.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\bin\Debug\net6.0\YardimMasasi.VeriErisim.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.AssemblyInfo.cs
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\refint\YardimMasasi.VeriErisim.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.genruntimeconfig.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\ref\YardimMasasi.VeriErisim.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\bin\Debug\net6.0\YardimMasasi.Nesneler.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\bin\Debug\net6.0\YardimMasasi.Nesneler.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.VeriErisim\obj\Debug\net6.0\YardimMasasi.VeriErisim.csproj.CopyComplete

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<YardimMasasi.Sunum.Models.SurecViewModels.SurecTanimiListItemViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12">
+    <button class="btn-primary">Süreç Tanımı Ekle</button>
+</div>
+<div class="row">
+
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-lg-3 surecpart" style="border-right:1px inset">
+                    <div class="list-group">
+                        @foreach (var item in Model)
+                        {
+                            <a href="#" class="list-group-item list-group-item-action" onclick="alert(@item.Id)">
+                                <i class="bi-alarm"></i>
+                                <span class="text-success">@Html.DisplayFor(modelItem => item.Adi)</span>
+                                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-success">
+                                    @Html.DisplayFor(modelItem => item.AdimSayisi)
+                                    <span class="visually-hidden">unread messages</span>
+                                </span>
+                            </a>
+                        }
+                    </div>
+                </div>
+                <div class="col-md-8 col-sm-6 col-lg-9 surecpart">
+                    içerik
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+<script type="text/javascript">
+    var height = $(window).height();
+
+    setSize();
+
+    $(document).ready(function () {
+        $(window).on('resize', function() {
+            if ($(window).height() !== height) {
+                height = $(window).height();
+                setSize();
+          }
+        });
+    });
+
+    function setSize(){
+        var h = $(window).height() - 210;
+        $('.surecpart').height(h);
+    }
+</script>
+}

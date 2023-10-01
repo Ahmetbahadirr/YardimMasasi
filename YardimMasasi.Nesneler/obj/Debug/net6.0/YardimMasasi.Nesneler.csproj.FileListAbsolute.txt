@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\bin\Debug\net6.0\YardimMasasi.Nesneler.deps.json
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\bin\Debug\net6.0\YardimMasasi.Nesneler.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\bin\Debug\net6.0\YardimMasasi.Nesneler.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.AssemblyInfo.cs
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\refint\YardimMasasi.Nesneler.dll
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\YardimMasasi.Nesneler.pdb
+C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Nesneler\obj\Debug\net6.0\ref\YardimMasasi.Nesneler.dll

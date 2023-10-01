@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YardimMasasi.Sunum
+build_property.RootNamespace = YardimMasasi.Sunum
+build_property.ProjectDir = C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Sunum\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\KytYardimMasasi\YardimMasasi.Sunum
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/AltKonu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0S29udVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/AltKonu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0S29udVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/AltKonu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0S29udVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/AnaKonu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hS29udVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/AnaKonu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hS29udVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/AnaKonu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hS29udVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Birim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyaW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Birim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyaW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Birim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Duyuru/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Duyuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Duyuru/_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1XF9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Ekip/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWtpcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Ekip/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWtpcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Ekip/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWtpcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/GorevMesaj/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29yZXZNZXNhalxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Gorev/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29yZXZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Gorev/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29yZXZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Gorev/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29yZXZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Haber/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Haber/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Haber/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Logon/Logon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nb25cTG9nb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/SurecTanimi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZWNUYW5pbWlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/SurecTanimi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZWNUYW5pbWlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/KytYardimMasasi/YardimMasasi.Sunum/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ihjawtu74d
